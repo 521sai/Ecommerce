@@ -21,8 +21,7 @@ body {
   
  }
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',monospace;
 }
 strong{
   color: #4d0dfd;
@@ -42,5 +41,4 @@ strong{
 }
 .modal-contents{
   background-image:url(C:\Users\NAGESHWARA RAO\Ecommerce\Project1\shop.webp);
-  
 }

@@ -1,0 +1,6 @@
+React js required modules
+
+1. npm i bootstrap
+2. npm i font-awesome
+3. npm i react-router-dom
+4. npm i redux react-redux
